@@ -1,0 +1,15 @@
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Consumer.deps.json
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Consumer.runtimeconfig.json
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Consumer.runtimeconfig.dev.json
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Consumer.dll
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Consumer.pdb
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Core.dll
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Core.pdb
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\netcoreapp2.0\RabbitMQ.Consumer.csprojResolveAssemblyReference.cache
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\netcoreapp2.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\netcoreapp2.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\netcoreapp2.0\RabbitMQ.Consumer.AssemblyInfo.cs
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\netcoreapp2.0\RabbitMQ.Consumer.dll
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\netcoreapp2.0\RabbitMQ.Consumer.pdb
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Domain.dll
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Domain.pdb

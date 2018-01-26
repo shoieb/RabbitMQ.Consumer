@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  rabbitmq.consumer:
+    image: rabbitmq.consumer
+    build:
+      context: .
+      dockerfile: RabbitMQ.Consumer/Dockerfile
+    ports:
+      - "5000:80"
+    depends_on:
+      - postgres
+  postgres:
+    image: "postgres"
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+networks:
+  default:
+    external:
+      name: isolated

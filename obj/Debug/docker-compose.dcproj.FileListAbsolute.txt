@@ -1,0 +1,1 @@
+D:\Docker test\RabbitMQ.Consumer\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

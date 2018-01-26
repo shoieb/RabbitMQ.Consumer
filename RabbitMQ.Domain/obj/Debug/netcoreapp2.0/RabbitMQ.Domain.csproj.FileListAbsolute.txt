@@ -1,0 +1,9 @@
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\bin\Debug\netcoreapp2.0\RabbitMQ.Domain.deps.json
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\bin\Debug\netcoreapp2.0\RabbitMQ.Domain.dll
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\bin\Debug\netcoreapp2.0\RabbitMQ.Domain.pdb
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\obj\Debug\netcoreapp2.0\RabbitMQ.Domain.csprojResolveAssemblyReference.cache
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\obj\Debug\netcoreapp2.0\RabbitMQ.Domain.csproj.CoreCompileInputs.cache
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\obj\Debug\netcoreapp2.0\RabbitMQ.Domain.AssemblyInfoInputs.cache
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\obj\Debug\netcoreapp2.0\RabbitMQ.Domain.AssemblyInfo.cs
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\obj\Debug\netcoreapp2.0\RabbitMQ.Domain.dll
+D:\Docker test\RabbitMQ.Consumer\RabbitMQ.Domain\obj\Debug\netcoreapp2.0\RabbitMQ.Domain.pdb
