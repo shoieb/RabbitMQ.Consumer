@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj",
+      "projectUniqueName": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj",
       "projectName": "RabbitMQ.Domain",
-      "projectPath": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj",
+      "projectPath": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj",
       "packagesPath": "C:\\Users\\Shoieb\\.nuget\\packages\\",
-      "outputPath": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Domain\\obj\\",
+      "outputPath": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

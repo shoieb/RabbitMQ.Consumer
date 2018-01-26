@@ -12663,11 +12663,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+      "projectUniqueName": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
       "projectName": "RabbitMQ.Consumer",
-      "projectPath": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+      "projectPath": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
       "packagesPath": "C:\\Users\\Shoieb\\.nuget\\packages\\",
-      "outputPath": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\obj\\",
+      "outputPath": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12687,11 +12687,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Core\\RabbitMQ.Core.csproj": {
-              "projectPath": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Core\\RabbitMQ.Core.csproj"
+            "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Core\\RabbitMQ.Core.csproj": {
+              "projectPath": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Core\\RabbitMQ.Core.csproj"
             },
-            "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj": {
-              "projectPath": "D:\\Docker test\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj"
+            "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj": {
+              "projectPath": "C:\\adfenix-codebase\\RabbitMQ.Consumer\\RabbitMQ.Domain\\RabbitMQ.Domain.csproj"
             }
           }
         }
